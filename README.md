@@ -1,10 +1,10 @@
 # ROMEJ 🦠 (viruz)
 
-ROM EJ (pronounced "Romej") — nicknamed "viruz" — is an experimental project that explores concepts around emergent behaviour, generative patterns, and simulated spread dynamics in a lightweight, creative codebase.
+ROMEJ  — nicknamed "virus" — is an experimental project that explores concepts around emergent behaviour, generative patterns, and simulated spread dynamics in a lightweight, creative codebase.
 
 ## About
 
-ROM EJ is a small, opinionated project intended for experimentation and learning. It combines simulation, visualization, and playful design to demonstrate how simple rules can produce complex behavior. The project is suitable for developers, artists, and researchers who enjoy exploring algorithmic systems and interactive demonstrations.
+ROMEJ is a small, opinionated project intended for experimentation and learning. It combines simulation, visualization, and playful design to demonstrate how simple rules can produce complex behavior. The project is suitable for developers, artists, and researchers who enjoy exploring algorithmic systems and interactive demonstrations.
 
 ## Goals
 
